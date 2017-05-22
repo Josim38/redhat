@@ -1,0 +1,118 @@
+
+/* Debut css */
+
+body {
+	margin:auto;
+	background:url(images/presentation-center.jpg) no-repeat;
+	font-family: 'PT Sans', sans-serif;
+	margin: 0px;
+	padding:0px;
+	witdh:1500px;
+	
+}
+
+.logo {
+	position:absolute;
+	margin-left:290px;
+	margin-top:70px;
+}
+
+.summit {
+	position:relative;
+	margin-top:230px;
+	margin-left:290px;
+}
+/*******MENU HAUT*******/
+
+.menu_haut ul li {
+	list-style:none;
+	padding-left:30px;
+	text-transform:uppercase;
+	color:#FFF;
+}
+.menu_haut li a {
+ 	text-align:center;
+}
+.menu_haut {
+	background-color:white;
+	position:relative;
+	margin-top:-16px;
+	margin-left:280px;
+	width:1300px;
+}
+.menu_haut a:visited{
+	color:black;
+}
+.menu_haut a:link {
+	margin-top:20px;
+	margin-left:20px;
+}
+
+.menu_haut li {
+	display:inline;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+/*********MENU ACCUEIL********/
+
+.menu_accueil {
+	position:relative;
+	margin-top:60px;
+	margin-left:465px;
+}
+.menu_accueil ul li {
+	list-style:none;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+.menu_accueil li {
+	display:inline;
+}
+.menu_accueil a:visited{
+	color:#FFFFFF;
+}
+
+/*******PHOTOS**********/
+
+
+
+.city {
+ position:relative;
+ margin-top:208px;
+}
+
+.red_bg {
+	position:relative;
+	margin-top:-5px;
+}
+.nuage {
+	position:relative;
+	margin-top:-5px;
+}
+
+.cloud {
+	position:absolute;
+	margin-top:454px;
+}
+
+/********CONTENU*******/
+ .titre_haut {
+	 position:absolute;
+	 font-family: 'Roboto', sans-serif;
+	 font-size:35px;
+	 font-weight:5px;
+	 margin-left:290px;
+	 margin-top:265px;
+	 color:#FFF;
+	 text-transform:uppercase; 
+ }
+ 
+  .text_haut {
+	 position:absolute;
+	 margin-left:290px;
+	 margin-top:415px;
+	 color:#FFF;
+	 text-transform:uppercase; 
+ }
